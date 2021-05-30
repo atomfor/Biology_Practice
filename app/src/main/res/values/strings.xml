@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Biology Practice</string>
+    <string name="name_project">Практичні роботи з біології 8 клас</string>
+    <string name="person_name">Прізвище учня</string>
+    <string name="person_password">Пароль</string>
+    <string name="toast_password">Всі рядки мають бути заповнені</string>
+    
+    <string name="work_one_title">Практична робота Будова клітини</string>
+    <string name="work_two_title">Практична робота Тканини людини</string>
+    <string name="work_three_title">Практична робота Системи органів</string>
+    <string name="work_for_title">Практична робота чотири Опорно-рухова система</string>
+
+    <string name="work_one_them">Будова клітини</string>
+    <string name="work_two_them">Тканини людини</string>
+    <string name="work_three_them">Системи органів</string>
+    <string name="work_for_them">Опорно-рухова система</string>
+
+
+</resources>
